@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 I'm Mchus
 
-<!--
-**Mchus2/Mchus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Are you into coding and building your own worlds too? Glad to have you here! 🚀 I spend my days leveling up my programming skills, developing games, and tinkering with tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+
+* **Languages:**Python, Rust
+* **Engines & Frameworks: PyQt6 / PyOpenGL
+* **Games I Play & Mod:** Minecraft (Redstone, architecture, modding), Farming Simulator
+
+---
+
+### 🎮 Projects & Passions
+
+* **Game Development:** Writing C# scripts for Unity, building mechanics in Roblox Studio, and experimenting with graphics and desktop apps in Python.
+* **Modding & Automation:** Enjoying deep-dive game mechanics, optimizing gameplay, and creating custom mods for games like Minecraft and the Farming Simulator series.
+* **Setup:** Always keeping the desk optimized for long coding and gaming sessions!
+
+---
+
+### 📊 GitHub Stats
+ Profile Stats 📝
+![Mchus2's Github Stats](https://ghstats.dev/api/card?username=Mchus2&show_icons=false&hide=grade%2Cissues%2Cprs%2Cstreak%2Cavg)
+![Top Languages](https://ghstats.dev/api/langs?username=Mchus2&max_langs=10&layout=horizontal_list)
+
